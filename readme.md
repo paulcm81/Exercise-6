@@ -19,10 +19,10 @@
  <your-answer-here>
 
  3. Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
- <your-answer-here>
+ <git diff --staged>
 
  4. Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
- <your-answer-here>
+ <>
 
  5. Assuming that you are currently within a Git repository that includes multiple commits, write the command (or commands) that will display the IDs and commit messages for the 3 most recent commits.
  <your-answer-here>
